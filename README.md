@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FECFEF&text=Jeni%20Rose%20S&section=header&textBg=false&fontColor=fffff&desc=Full%20Stack%20Developer%20||%20Tech%20Enthusiast%20||%20Logician&descSize=16&reversal=true&fontSize=55&animation=fadeIn&rotate=0&descAlignY=65" alt="Header" />
 
-<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=9CAF88&background=4A4E6900&center=true&width=435&lines=Design+%E2%80%A2+Develop+%E2%80%A2+Deploy+%E2%9A%93;Igniting+Creativity+%E2%9C%A8;Beyond+Boundaries+%F0%9F%AA%90;Progress+over+Perfection+%F0%9F%8D%82" alt="Typing SVG" /></a> />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&pause=1000&color=9CAF88&background=4A4E6900&center=true&width=435&lines=Design+%E2%80%A2+Develop+%E2%80%A2+Deploy+%E2%9A%93;Igniting+Creativity+%E2%9C%A8;Beyond+Boundaries+%F0%9F%AA%90;Progress+over+Perfection+%F0%9F%8D%82" alt="Typing SVG" /></a> />
 
 </div>
 
