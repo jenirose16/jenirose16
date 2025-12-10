@@ -137,6 +137,6 @@
 ###  Fun Fact
 *"you are more than your potential!"*
 
-**⭐ From [sabariyuhendh](https://github.com/jenirose16)**
+**⭐ From [JeniRoseS](https://github.com/jenirose16)**
 
 </div>
